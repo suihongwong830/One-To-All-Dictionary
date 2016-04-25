@@ -1,0 +1,1 @@
+# one-to-all-dictionary
